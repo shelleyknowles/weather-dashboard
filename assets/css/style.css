@@ -1,0 +1,29 @@
+.header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: black;
+    }
+     
+    .box {
+        display: block;
+        margin-left: 0 10 0 10;
+        width: 25%;
+        position: relative;
+    }
+     
+    .header2 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 36px;
+        font-weight: bold;
+    }
+     
+    .card {
+        display: flex;
+        margin-right: 0 10 0 10;
+        width: 50%;
+        position: relative;
+        align-content: flex-end;
+    }
+    
+    
